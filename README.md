@@ -10,3 +10,8 @@ In this small project i cover react-router concepts.
 - Relative Links
 
 These are the concepts that i did in this project :)
+
+# Adding cart functionality
+
+- redux-toolkit 
+- add remove items 
